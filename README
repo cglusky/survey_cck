@@ -1,0 +1,10 @@
+Unless otherwise noted everything in here is GPL
+
+This is a widget/formatter for Drupal 6 CCK text fields.
+
+It's designed to support entering questions and answers for a from and still maintaining
+field names.
+
+It has been lightly tested.
+
+
